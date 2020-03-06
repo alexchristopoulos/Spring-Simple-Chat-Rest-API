@@ -1,6 +1,5 @@
-# Spring-Citrix-Coding-Test
-Citrix Coding Test solution with Spring Boot
-A Coding Excercise during Citrix recruitement proccess
+# Spring-Coding-Test
+A solution for an assignment for a coding test
 
 # Assignment Description
 
